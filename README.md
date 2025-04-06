@@ -13,4 +13,4 @@ Check out the project workflow below! 📷
 Let’s connect & discuss how DevSecOps is shaping modern cloud deployments. 💬
 
 #DevSecOps #CloudComputing #CI/CD #Kubernetes #Security #Automation #Observability #Jenkins #ArgoCD #Docker #NetflixClone
-![image flow](https://github.com/user-attachments/assets/c2913fda-38ca-438a-8562-4f25092b26a1)
+![framework](https://github.com/user-attachments/assets/e7776c41-66b0-470c-b59b-41e1d0b77833)
